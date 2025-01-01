@@ -45,8 +45,8 @@ PRODUCT_SHIPPING_API_LEVEL := 30
 
 # Fingerprint
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildFingerprint="samsung/a72qnsxx/a72q:11/RP1A.200720.012/A725FXXS8FXE3:user/release-keys" \
-    BuildDesc="a72qnsxx-user 11 RP1A.200720.012 A725FXXS8FXE3 release-keys"
+    BuildFingerprint="samsung/a72qnsxx/a72q:11/RP1A.200720.012/A725FXXUAFXL2:user/release-keys" \
+    BuildDesc="a72qnsxx-user 11 RP1A.200720.012 A725FXXUAFXL2 release-keys"
 
 # Security patch
-VENDOR_SECURITY_PATCH := 2024-05-01
+VENDOR_SECURITY_PATCH := 2024-11-01
